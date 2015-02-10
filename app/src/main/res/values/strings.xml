@@ -6,5 +6,6 @@
     <string name="action_settings">Settings</string>
 
     <string name="updateButton">Update</string>
+    <string name="openButton">Open</string>
 
 </resources>
