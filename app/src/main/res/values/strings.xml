@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Base Program</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Scouting App</string>
+    <string name="hello_world">Welcome to the scouting app thing</string>
     <string name="action_settings">Settings</string>
+
+    <string name="updateButton">Update</string>
 
 </resources>
