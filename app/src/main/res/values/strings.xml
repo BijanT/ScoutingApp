@@ -2,10 +2,15 @@
 <resources>
 
     <string name="app_name">Scouting App</string>
-    <string name="hello_world">Welcome to the scouting app thing</string>
     <string name="action_settings">Settings</string>
 
+    <!-- Values used in the main activity -->
+    <string name="hello_world">Welcome to the scouting app thing</string>
     <string name="updateButton">Update</string>
     <string name="openButton">Open</string>
+    <string name="title_activity_view_teams">ViewTeams</string>
+
+    <!-- Values used in the View Teams activity-->
+    <string name="viewTeamsHeader">View Team Information</string>
 
 </resources>
